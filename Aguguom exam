@@ -1,0 +1,16 @@
+// a. Create an array named "myStudent"
+let myStudent = ["obi", "tine", "jerry", "tony", "uchee", "Emma", "jane", "emma", "David", "ada"]
+(let i = 0; i < myStudent.length; i++) {
+      console.log(myStudent[i]);
+      }
+let myObject = {
+      name: "obi",
+        age: 40,
+          married: false,
+            location: "aba"
+            };
+
+console.log(myObject.name);
+console.log(myObject.age);
+console.log(myObject.married);
+console.log(myObject.location);
